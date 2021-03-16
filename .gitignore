@@ -1,6 +1,9 @@
 # Django:
 nasa_connector/settings.py
 
+# VSCode
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
